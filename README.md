@@ -6,7 +6,7 @@ The page each business-card QR code opens: one page per person, with a "Save to 
 
 Edit `staff.json`, then redeploy (or push, if the repo is connected to Vercel).
 
-- `slug` becomes the URL: `johan` → `/johan`. **Never change a slug once a card is printed.**
+- `slug` becomes the URL: `rowanne` → `/rowanne`. **Never change a slug once a card is printed.**
 - `mobile` in international form: `+27821234567`.
 - `linkedin` is optional; leave it `""` to hide the button.
 - When someone leaves, set `"status": "retired"`. Their printed QR keeps working and shows the "no longer with us" page.

@@ -12,17 +12,6 @@
   },
   "staff": [
     {
-      "slug": "johan",
-      "status": "active",
-      "firstName": "Johan",
-      "lastName": "van Niekerk",
-      "title": "National Sales Manager",
-      "region": "Gauteng",
-      "mobile": "+27821234567",
-      "email": "johan@spilltech.co.za",
-      "linkedin": ""
-    },
-    {
       "slug": "rowanne",
       "status": "active",
       "firstName": "Rowanne",
