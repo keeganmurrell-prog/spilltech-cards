@@ -1,0 +1,32 @@
+{
+  "baseUrl": "https://spilltech-cards.vercel.app",
+  "company": {
+    "name": "Spill Tech",
+    "tagline": "Responsible Environmental Management",
+    "website": "https://www.spilltech.co.za",
+    "email": "info@spilltech.co.za",
+    "phoneRSA": "0861000366",
+    "phoneRSADisplay": "086 100 0366",
+    "phoneNAM": "0800100366",
+    "phoneNAMDisplay": "080 010 0366"
+  },
+  "staff": [
+    {
+      "slug": "johan",
+      "status": "active",
+      "firstName": "Johan",
+      "lastName": "van Niekerk",
+      "title": "National Sales Manager",
+      "region": "Gauteng",
+      "mobile": "+27821234567",
+      "email": "johan@spilltech.co.za",
+      "linkedin": ""
+    },
+    {
+      "slug": "sarah",
+      "status": "retired",
+      "firstName": "Sarah",
+      "lastName": "Mokoena"
+    }
+  ]
+}
